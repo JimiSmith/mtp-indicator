@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Icon=indicator-robot
+Name=Caffeine
+Comment=Indicator to mount/unmount MTP devices
+Exec=android-mtp-indicator
+Terminal=false
+Type=Application
+Categories=Utility;
+StartupNotify=false
+Name[en_ZA]=android-mtp-indicator.desktop
