@@ -1,7 +1,7 @@
 [Desktop Entry]
 Encoding=UTF-8
 Icon=indicator-robot
-Name=Caffeine
+Name=MTP Indicator
 Comment=Indicator to mount/unmount MTP devices
 Exec=android-mtp-indicator
 Terminal=false
