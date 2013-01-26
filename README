@@ -1,0 +1,5 @@
+An app indicator that can be used to mount/unmount MTP devices easily. Primarily aimed at android phones for now.
+
+Build using the makefile supplied, copy the resulting binary into your path and enjoy :)
+
+This relies on go-mtpfs and udev. Please ensure you have both installed.
